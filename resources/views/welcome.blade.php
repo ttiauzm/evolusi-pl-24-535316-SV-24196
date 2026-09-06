@@ -9,6 +9,7 @@
     <p>Ini adalah halaman utama project Laravel sederhana.</p>
     <nav>
         <a href="/about">About</a>
+        <a href="/profile">      Profile</a>
     </nav>
 </body>
 </html>
